@@ -4,7 +4,7 @@ enabled = true
 
 [tool.gilesbot.org_vetting]
 enabled = true
-allowlist = "https://raw.githubusercontent.com/astropy/.github/main/contributor-allowlist.txt"
+allowlist = "https://raw.githubusercontent.com/astropy/.github/main/contributor-allowlist.txt" (we need to make this for sunpy)
 message = """
 Hi 👋 and thank you for your contribution to SunPy!
 
